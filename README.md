@@ -40,7 +40,7 @@ This script is licensed under the MIT License. See the [LICENSE](LICENSE) file f
 ### Acknowledgments
 
 - **Author**: The original script was developed by Kenny Cruz.
-- **Modified By**: H. AL. for custom use and enhancements.
+- **Modified By**: Alouatiq for custom use and enhancements.
 
 ### Contributing
 
